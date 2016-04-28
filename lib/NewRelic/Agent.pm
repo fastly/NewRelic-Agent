@@ -2,7 +2,7 @@ package NewRelic::Agent;
 use strict;
 use warnings;
 
-our $VERSION = '0.0532';
+our $VERSION = '0.0533';
 
 require XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
@@ -47,7 +47,7 @@ NewRelic::Agent - Perl Agent for NewRelic APM
 
 =head1 VERSION
 
-version 0.0532
+version 0.0533
 
 =head1 SYNOPSIS
 

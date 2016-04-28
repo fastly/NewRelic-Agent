@@ -28,7 +28,7 @@ requires:
 resources:
   bugtracker: https://github.com/aanari/NewRelic-Agent/issues
   repository: git://github.com/aanari/NewRelic-Agent.git
-version: '0.0532'
+version: '0.0533'
 x_contributors:
   - 'Slobodan Mišković <slobodan@miskovic.ca>'
   - 'Tatsuhiko Miyagawa <miyagawa@bulknews.net>'
